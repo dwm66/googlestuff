@@ -16,3 +16,8 @@ Dieses Script soll diese Möglichkeiten erweitern:
 ähnlich zum Spam und zum Paperkorb.
 - Mail, die einen Label bekommt, aber im Posteingang verbleibt, soll nach einer bestimmten Zeit archivert werden, 
 also aus dem Posteingang verschwinden.
+
+## Links
+* https://developers.google.com/apps-script
+* https://developers.google.com/apps-script/guides/web
+* https://script.google.com/home
