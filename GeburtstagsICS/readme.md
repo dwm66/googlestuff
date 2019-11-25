@@ -13,7 +13,9 @@ Dies kann man dazu benutzen, **selbst** einen Webservice zu bauen, der einen Geb
 Um den Geburtstagskalender einzurichten, muss man zuerst das Script einrichten. 
 Zuerst braucht man natürlich ein Google Konto - das werde ich hier allerdings nicht beschreiben :)
 Um das Script einzurichten, öffnet man am besten Google Drive (https://drive.google.com) und klickt dann auf Neu -> Mehr -> Google App Script.
-![Alt-Text](/dwm66/googlestuff/GeburtstagsICS/doc/newscript.jpg)
+
+![Alt-Text](/doc/newscript.jpg)
+
 Es öffnet sich dann der Editor für die Datei Code.gs.
 Da kopiert man den Inhalt von Code.gs hier im Repository hinein.
 Das Projekt heisst noch "Unbenanntes Projekt, das kann man in "Geburtstagskalender" umbenennen.
