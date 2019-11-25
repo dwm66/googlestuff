@@ -21,6 +21,8 @@ Da kopiert man den Inhalt von Code.gs hier im Repository hinein.
 Das Projekt heisst noch "Unbenanntes Projekt, das kann man in "Geburtstagskalender" umbenennen.
 Dann geht man im Menü nach Datei -> Neu -> Skriptdatei, legt "ics.js" an (ohne das abschließende .gs :)) und kopiert dahinein den Inhalt von ics.js.gs.
 
+![Alt-Text](/GeburtstagsICS/doc/scripteditor.jpg)
+
 Um das Ganze jetzt als Web-App zu veröffentlichen, muss man zuerst noch eine "Version" anlegen, dazu geht man nach 
 Datei -> Versionen verwalten
 und sichert den aktuellen Stand ab.
